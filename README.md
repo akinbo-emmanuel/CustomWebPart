@@ -1,8 +1,8 @@
-# samples
+# Custom WebPart
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This is a Custom Web Part that displays a custom list in accordions.
 
 [picture of the solution in action, if possible]
 
@@ -25,7 +25,7 @@ Short summary on functionality and used technologies.
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
+| Custom WebPart | Author details (Emmanuel Akinbo, M365Connect, [Twitter](https://twitter.com/_emmanuelakinbo) |
 
 ## Version history
 
@@ -47,8 +47,6 @@ Short summary on functionality and used technologies.
 - in the command-line run:
   - **npm install**
   - **gulp serve**
-
-> Include any additional steps as needed.
 
 ## Features
 
